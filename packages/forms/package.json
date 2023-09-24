@@ -1,0 +1,22 @@
+{
+  "name": "@acmeinc/forms",
+  "main": "./index.tsx",
+  "types": "./index.tsx",
+  "dependencies": {
+    "@acmeinc/ui": "workspace:*",
+    "@hookform/resolvers": "^3.3.1",
+    "@radix-ui/react-label": "^2.0.2",
+    "@radix-ui/react-slot": "^1.0.2",
+    "lucide-react": "^0.274.0",
+    "react": "^18.2.0",
+    "react-hook-form": "^7.46.2",
+    "zod": "^3.22.2"
+  },
+  "devDependencies": {
+    "@acmeinc/tailwind-config": "workspace:*",
+    "eslint-config-custom": "workspace:*",
+    "@types/node": "^20.5.2",
+    "@types/react": "^18.2.0",
+    "tsconfig": "workspace:*"
+  }
+}
